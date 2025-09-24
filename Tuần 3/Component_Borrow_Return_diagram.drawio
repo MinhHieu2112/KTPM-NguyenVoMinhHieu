@@ -1,0 +1,201 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="28.2.3">
+  <diagram name="Trang-1" id="voluP7k5LzKoaPS6_ylx">
+    <mxGraphModel dx="2777" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="Single-page Application" c4Type="Container" c4Technology="JavaScript, Angular " c4Description="Provides all of the library online functionally to customers or administrators via their web browser." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-6">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;allowArrows=1;connectable=1;expand=1;" vertex="1" parent="1">
+            <mxGeometry x="-722" y="405" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Mobile App" c4Type="Container" c4Technology="Xamarin" c4Description="Provides a suitable library system interface on the phone." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#00a3d7, #176592);fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-227" y="425" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-952" y="663" width="1180" height="342" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="BorrowBook Controller" c4Type="Container" c4Technology="Spring MVC Rest Controller" c4Description="Allow users to borrow book in the system if enough quantity" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=light-dark(#66B2FF,#1D8AB9);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-928" y="684" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ReturnBook Controller" c4Type="Component" c4Technology="Spring MVC Rest Controller" c4Description="Allow user to return book borrowed" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=light-dark(#66B2FF,#1D8AB9);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-508" y="684" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Borrow Component" c4Type="Component" c4Technology="Spring Bean" c4Description="Check loan conditions, record loan information" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=light-dark(#66B2FF,#1D8AB9);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-928" y="851" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ReturnBook Component" c4Type="Component" c4Technology="Spring Bean" c4Description="Confirm payment, calculate late fee" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=light-dark(#66B2FF,#1D8AB9);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-508" y="851" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Notify Controller" c4Type="Component" c4Technology="Spring MVC Rest Controller" c4Description="Send successful loan/return notifications or late reminders." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-19">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=light-dark(#66B2FF,#1D8AB9);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-74" y="684" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Notify Component" c4Type="Component" c4Technology="Spring Bean" c4Description="Send emails to users." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=light-dark(#66B2FF,#1D8AB9);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-74" y="851" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="Microsoft SQL Server" c4Description="Stores book information, inventory, loan lists, etc." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-22">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-928" y="1085" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.196;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-6" target="6JrDKTPBiihJPNNbZpGh-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-334" y="595" as="sourcePoint" />
+            <mxPoint x="-471" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Makes API calls to&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[JSON/HTTPS]&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-26">
+          <mxGeometry x="-0.1642" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-6" target="6JrDKTPBiihJPNNbZpGh-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-816" y="595" as="sourcePoint" />
+            <mxPoint x="-951" y="711" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Makes API calls to&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[JSON/HTTPS]&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-28">
+          <mxGeometry x="-0.1642" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.824;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-6" target="6JrDKTPBiihJPNNbZpGh-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-743" y="595" as="sourcePoint" />
+            <mxPoint x="-591" y="711" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Makes API calls to&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[JSON/HTTPS]&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-30">
+          <mxGeometry x="-0.1642" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-7" target="6JrDKTPBiihJPNNbZpGh-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-613" y="838" as="sourcePoint" />
+            <mxPoint x="-563" y="788" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-7" target="6JrDKTPBiihJPNNbZpGh-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-334" y="555" as="sourcePoint" />
+            <mxPoint x="-891" y="711" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-7" target="6JrDKTPBiihJPNNbZpGh-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-43" y="632" as="sourcePoint" />
+            <mxPoint x="-180" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Makes API calls to&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[JSON/HTTPS]&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-36">
+          <mxGeometry x="-0.1642" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-8" target="6JrDKTPBiihJPNNbZpGh-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-605" y="867" as="sourcePoint" />
+            <mxPoint x="-555" y="817" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Uses&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-38">
+          <mxGeometry x="-0.0516" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-11" target="6JrDKTPBiihJPNNbZpGh-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-798" y="814" as="sourcePoint" />
+            <mxPoint x="-798" y="879" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Uses&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-40">
+          <mxGeometry x="-0.0516" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-19" target="6JrDKTPBiihJPNNbZpGh-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45.410000000000025" y="804" as="sourcePoint" />
+            <mxPoint x="45.410000000000025" y="851" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Uses&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-42">
+          <mxGeometry x="-0.0516" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-13" target="6JrDKTPBiihJPNNbZpGh-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12" y="1051" as="sourcePoint" />
+            <mxPoint x="-306" y="1051" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reads from and writes to&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Microsoft SQL Server]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-52">
+          <mxGeometry x="-0.1642" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="E-mail System" c4Type="Software System" c4Description="Automated processing of notification emails." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-61">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#929292, #7e7787);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-74" y="1085" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.775;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-17" target="6JrDKTPBiihJPNNbZpGh-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-798" y="981" as="sourcePoint" />
+            <mxPoint x="-798" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reads from and writes to&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Microsoft SQL Server]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-62">
+          <mxGeometry x="-0.1642" y="-2" relative="1" as="geometry">
+            <mxPoint x="-8" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-20" target="6JrDKTPBiihJPNNbZpGh-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45.170000000000016" y="971" as="sourcePoint" />
+            <mxPoint x="45.170000000000016" y="1018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Sends e-mail&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;using&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-64">
+          <mxGeometry x="-0.0516" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Payment Gateway" c4Type="Software System" c4Description="Process membership fees or late fees." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6JrDKTPBiihJPNNbZpGh-66">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#929292, #7e7787);fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-508" y="1085" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6JrDKTPBiihJPNNbZpGh-17" target="6JrDKTPBiihJPNNbZpGh-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="56" y="981" as="sourcePoint" />
+            <mxPoint x="56" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JrDKTPBiihJPNNbZpGh-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Payment processing&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JrDKTPBiihJPNNbZpGh-67">
+          <mxGeometry x="-0.0516" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
